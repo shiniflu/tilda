@@ -5,7 +5,7 @@ import requests
 TOKEN = "7592616557:AAGfVDs92i94sh8jQPbaLNI1UbkfPmskSyU"
 
 # 🔹 Вставьте API-ключ OpenAI (ChatGPT)
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # 🔹 URL для отправки сообщений в Telegram
 TELEGRAM_URL = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
